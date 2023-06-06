@@ -1,0 +1,17 @@
+{
+    "name": "rakeshthapa/golang",
+    "autoload": {
+        "psr-4": {
+            "Rakeshthapa\\Golang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rakesh Thapa",
+            "email": "rakeshthapa358@gmail.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^2.4"
+    }
+}
